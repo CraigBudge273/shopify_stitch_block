@@ -1,4 +1,4 @@
-connection: "shopify_data"
+connection: "lookershopify"
 
 # include all the views #
 include: "*.view"
